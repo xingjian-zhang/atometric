@@ -1,0 +1,38 @@
+{
+    "Recent advances in deep learning have focused on studying the generalizability across different local minima of deep neural networks (DNNs), but no existing methods both discover properties of good local minima and develop regularization techniques to induce good local minima.": [
+        "The paper investigates the recent advances in deep learning.",
+        "The studied generalizability is across different local minima of DNNs.",
+        "The existing methods do not discover properties of good local minima of DNNs.",
+        "The existing methods do not develop regularization techniques to induce good local minima of DNNs."
+    ],
+    "Current geolocalisation approaches require image data to be tied to a particular location on a map, but struggle in localizing single images accurately.": [
+        "The paper investigates the current geolocalisation approaches.",
+        "The current approaches have specific requirements.",
+        "The image data must be associated with specific map locations.",
+        "The current approaches struggle to localize single images accurately.",
+        "The current approaches are not able to localize single images accurately."
+    ],
+    "Formulating efficient SQL queries is a challenging and iterative process requiring tuning and execution cycles. Current methods for providing insights about SQL query properties prior to execution depend on database instance statistics or query execution plans.": [
+        "The paper investigates the process of formulating efficient SQL queries.",
+        "The process of formulating efficient SQL queries is challenging.",
+        "The process of formulating efficient SQL queries is iterative.",
+        "The iterative process requires tuning and execution cycles.",
+        "The current methods attempt to provide insights about SQL query properties prior to execution.",
+        "The current methods depend on database instance statistics.",
+        "The current methods depend on query execution plans."
+    ],
+    "Bandit learning algorithms typically balance exploration and exploitation. However, in many practical applications, worst-case scenarios needing systematic exploration are seldom encountered. Existing work does not adequately address structured linear contextual bandits, especially in smoothed settings.": [
+        "The paper investigates bandit learning algorithms.",
+        "The bandit learning algorithms typically balance exploration and exploitation.",
+        "The worst-case scenarios are seldom encountered in many practical applications.",
+        "The worst-case scenarios require systematic exploration.",
+        "The existing work does not adequately address structured linear contextual bandits.",
+        "The smoothed settings are especially under-explored in existing work."
+    ],
+    "Online spaces are vital for most LGBTQ+ individuals, yet they can also amplify existing intracommunity tensions and power dynamics, potentially causing harm to subgroups within this marginalized community.": [
+        "The paper investigates online spaces.",
+        "The online spaces are important for LGBTQ+ individuals.",
+        "The online spaces can amplify intracommunity tensions.",
+        "The online spaces can cause harm to subgroups within the LGBTQ+ community."
+    ]
+}

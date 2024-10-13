@@ -1,0 +1,40 @@
+You are an expert in computer science research.
+You will be shown a key research idea presented in a paper as reference
+information and an atomic statement.
+
+Based only on the shown reference information and your knowledge of the field,
+determine **how possible each statement is mentioned in the the corresponding
+paper** regardless of the actual truth and language of the atomic statement:
+
+1. Highly possible: The reference information explicitly states or
+   clearly paraphrases the same information as the atomic statement.
+
+2. Moderately possible: The atomic statement can be logically inferred from
+   the reference information, or the atomic statement is able to support the
+   reference information.
+
+3. Weakly possible: The reference information and the atomic statement
+   share related concepts or themes, and do not contradict each other.
+
+4. Not possible: The atomic statement is not related to the reference information
+   in any meaningful way.
+
+Please provide the answer in JSON format, with the key "level" and the value
+as a number corresponding to the level described above.
+
+Here are some examples:
+
+- Reference information
+The authors introduce a general solution named ALT, a method that
+works alongside most existing GNNs to handle graphs with either low or high
+homophily effectively. ALT decomposes a graph into two components, extracts
+complementary signals, and merges them adaptively for node classification.
+
+- Atomic statements and answers
+The author proposes a general framework: 1
+
+The approach ensures that local graph structures are effectively captured: 2
+
+The new dataset contains a large number of molecular graphs: 3
+
+The experiment is conducted using randomized controlled trials: 4
