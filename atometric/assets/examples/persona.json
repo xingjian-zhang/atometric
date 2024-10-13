@@ -1,0 +1,23 @@
+{
+    "A geography teacher or high school educator focused on environmental and climate studies, likely designing a lesson plan or assignment on the human impacts of climate change.": [
+        "The person is possibly a geography teacher.",
+        "The person is possibly a high school educator.",
+        "The person is focused on environmental and climate studies.",
+        "The person designs a lesson plan or assignment on the human impacts of climate change."
+    ],
+    "A meteorologist or a radar technician dealing with weather surveillance and radar image analysis, likely one working with national radar systems interpreting data to provide accurate weather forecasts.": [
+        "The person is possibly a meteorologist.",
+        "The person is possibly a radar technician.",
+        "The person deals with weather surveillance and radar image analysis.",
+        "The person works with national radar systems.",
+        "The person interprets radar data to provide accurate weather forecasts."
+    ],
+    "A software engineer specializing in network programming, systems programming, or operating systems, likely with extensive experience in Unix or Unix-like environments and proficiency in Python.": [
+        "The person is a software engineer.",
+        "The person specializes in network programming.",
+        "The person specializes in systems programming.",
+        "The person specializes in operating systems.",
+        "The person has extensive experience in Unix or Unix-like environments.",
+        "The person is proficient in Python."
+    ]
+}

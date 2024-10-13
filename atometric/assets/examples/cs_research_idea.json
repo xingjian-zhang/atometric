@@ -1,0 +1,43 @@
+{
+    "The authors propose the Multilingual MMT task and provide an effective baseline model LVP-M3 using visual prompts to support translations between different languages. ": [
+        "The authors propose a new task.",
+        "The task is named Multilingual MMT task.",
+        "The task is multilingual.",
+        "The authors provide a baseline model.",
+        "The baseline model is named LVP-M3.",
+        "The model uses visual prompts.",
+        "The model supports translations between different languages."
+    ],
+    "The authors propose a novel deep clustering method named PartItion Confidence mAximisation (PICA). PICA is established on the idea of learning the most semantically plausible data separation by maximising the global partition confidence of clustering solution": [
+        "The authors propose a novel method.",
+        "The method is a deep clustering method.",
+        "The method is named PartItion Confidence mAximisation (PICA).",
+        "The idea is about learning data separation.",
+        "The data separation is semantically plausible.",
+        "The method maximises the global partition confidence."
+    ],
+    "The paper proposes WalkingVibe, a solution which applies unobtrusive vibrotactile feedback for VR walking experiences to both improve realism and reduce VR sickness and discomfort.": [
+        "The paper propose a solution.",
+        "The name of solution is WalkingVibe.",
+        "The solution applies unobtrusive vibrotactile feedback.",
+        "The solution is designed for VR walking experiences.",
+        "The solution is aimed to improve realism.",
+        "The solution is aimed to reduce VR sickness and discomfort."
+    ],
+    "A novel Domain-Switch Learning (DSL) framework is proposed under a hypothesis that if a deep model quickly generalizes itself to different domains (using few samples) during training, it will maintain such domain generalization capacity for testing.": [
+        "The author propose a novel framework.",
+        "The framework is named Domain-Switch Learning (DSL)",
+        "The framework operates under a hypothesis.",
+        "The hypothesis states that a deep model generalizes itself to different domains.",
+        "The generalization happens during training.",
+        "The model generalizes using few samples.",
+        "The mode maintains domain generalization capacity for testing."
+    ],
+    "The authors propose to combine perceptual inference and memory retrieval into a single mathematical framework through a variational inference formulation of auto-associative memories.": [
+        "The authors propose a new mathematical framework.",
+        "The framework combines perceptual inference and memory retrieval.",
+        "The framework is based on variational inference.",
+        "The framework uses a formulation of variational inference.",
+        "The formulation applies to auto-associative memories."
+    ]
+}

@@ -1,0 +1,6 @@
+git+https://github.com/huggingface/evaluate@main
+langchain
+pydantic
+langchain_community
+langchain_openai
+langchain_core
