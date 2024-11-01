@@ -1,4 +1,4 @@
-git+https://github.com/huggingface/evaluate@main
+evaluate
 langchain
 pydantic
 langchain_community
