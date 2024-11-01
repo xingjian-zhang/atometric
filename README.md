@@ -25,5 +25,4 @@ Please see the [example](example.ipynb) for usage.
 ## Add a new downstream task
 
 - Please add few shot examples and systme prompts in `atometric/assets`.
-- Please modify the following function to add new downstream task.
-https://github.com/xingjian-zhang/atometric/blob/fd23bbda7213e73ae8c761ee7bc00b3e8ced0fc6/atometric/atometric.py#L93
+- Please modify the `Atometric.from_task_type` function to add new downstream task.
